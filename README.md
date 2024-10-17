@@ -1,6 +1,4 @@
 ## Hi there 👋
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axay28&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=axay28&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axay28&theme=github_dark)
 ![](https://komarev.com/ghpvc/?username=axay28)
 
