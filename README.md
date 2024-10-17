@@ -3,7 +3,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axay28&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=axay28&theme=radical)
 [![Akshay's Activity Graph](https://activity-graph.herokuapp.com/graph?username=axay28&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Profile Views](https://komarev.com/ghpvc/?username=axay28&color=blue)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axay28&theme=github_dark)
+
+![](https://komarev.com/ghpvc/?username=axay28)
 
 <!--
 **axay28/axay28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
