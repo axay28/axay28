@@ -18,38 +18,6 @@ building: model internals, retrieval systems, MLOps demos, production inference 
 style:    readable implementations, measured results, deployable prototypes
 ```
 
-## Flagship Work
-
-### tiny-transformer
-
-A compact GPT-style Transformer built from scratch in PyTorch with BPE tokenization, multi-head attention, tests, attention visualization, and a Gradio playground.
-
-**Signal:** model internals, training loops, attention, language modeling.
-
-### credit-risk-mlops
-
-An end-to-end credit default modeling and MLOps demo with FastAPI, Streamlit, MLflow, calibration, and PSI drift monitoring.
-
-**Signal:** applied ML systems, model serving, monitoring, deployment-oriented engineering.
-
-### Radiant
-
-A rare disease RAG chat agent for healthcare knowledge exploration.
-
-**Signal:** healthcare AI, retrieval-augmented generation, biomedical NLP, source-grounded answers.
-
-### MedExamLLM
-
-An exploratory rare disease project using LLMs and ChromaDB for information retrieval, question generation, and basic model comparison.
-
-**Signal:** RAG foundations, ChromaDB, PubMed/PMC data, model evaluation.
-
-## What I Am Building Toward
-
-- Transformer and deep learning systems from first principles.
-- Lightweight vector databases and retrieval pipelines.
-- Healthcare AI tools for rare disease knowledge access.
-- Inference and evaluation workflows that compare latency, throughput, memory, and answer quality.
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axay28&theme=github_dark" alt="GitHub profile summary" />
